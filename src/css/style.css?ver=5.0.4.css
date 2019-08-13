@@ -692,6 +692,10 @@ p.hi_normal {
   width: auto;
 }
 
+#header .logo_outer_box {
+  min-width: 177px;
+}
+
 .home.page-template #header {
   background-color: transparent;
   width: 100%;
@@ -751,7 +755,10 @@ div#header {
 }
 
 .logo a.custom-logo-link {
-  color: #000000;
+  font-family: "Merienda One";
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
 }
 
 .logo h1 a,
